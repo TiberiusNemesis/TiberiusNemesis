@@ -9,11 +9,11 @@ Currently looking to expand into full-stack development.
 - Spring Framework 🍃
 - Enterprise messaging systems & messaging oriented middleware, including but not limited to:  
 a. XML and JSON (XQuery, XSLT, XPath expressions, Jackson, JQ, GSON)  
-b. SOAP servers  
-c. ActiveMQ & RabbitMQ  
+b. SOAP servers 🧼  
+c. ActiveMQ & RabbitMQ
 - Database systems, both SQL and NoSQL (SQL Server, MySQL, PostgreSQL, MongoDB), along with object-relational mapping (e.g. Jakarta Persistence) and JPQL
 - Microservices & MVC architectural patterns
-- Containerization
+- Containerization with Docker 🐳
 - Kubernetes
 - Build automation tools such as Maven, Ant, Gradle
 - RESTful web services
