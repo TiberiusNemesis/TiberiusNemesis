@@ -1,7 +1,7 @@
 ![](gh-header.png)
 
 Welcome to my Github!  
-I'm Tiberius Dourado, a passionate, independent software engineer from Rio de Janeiro with an unending desire to learn more.  
+I'm a passionate, independent software engineer from Rio de Janeiro with an unending desire to learn more.  
 Currently looking to expand into full-stack development.
 
 ![](tools-and-techs-banner.png)
@@ -12,11 +12,13 @@ a. XML and JSON (XQuery, XSLT, XPath expressions, Jackson, JQ, GSON)
 b. SOAP servers 🧼  
 c. ActiveMQ & RabbitMQ
 - Database systems, both SQL and NoSQL (SQL Server, MySQL, PostgreSQL, MongoDB), along with object-relational mapping (e.g. Jakarta Persistence) and JPQL
+- Flyway version control
 - Microservices & MVC architectural patterns
 - Containerization with Docker 🐳
 - Kubernetes
 - Build automation tools such as Maven, Ant, Gradle
 - RESTful web services
+- OAuth2/JWT
 - Test-Driven Development (unit tests, integration tests, system testing)
 - CI/CD (pipelines for quality assurance, building, and deploying projects)
 
