@@ -7,6 +7,8 @@ Currently looking to expand into full-stack development.
 ![](tools-and-techs-banner.png)
 - Java ☕
 - Spring Framework 🍃
+- JavaScript (ES6)
+- React / React Native ⚛️
 - Enterprise messaging systems & messaging oriented middleware, including but not limited to:  
 a. XML and JSON (XQuery, XSLT, XPath expressions, Jackson, JQ, GSON)  
 b. SOAP servers 🧼  
@@ -22,10 +24,8 @@ c. ActiveMQ & RabbitMQ
 - Test-Driven Development (unit tests, integration tests, system testing)
 - CI/CD (pipelines for quality assurance, building, and deploying projects)
 
-I've also learned and have had substantial contact with:
+I've also had substantial experience with:
 - Python
-- Javascript
-- HTML & CSS (using Sass, Bootstrap)
 - Typescript (Angular 2+)
 
 ![](socials-banner.png)
