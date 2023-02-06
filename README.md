@@ -4,7 +4,6 @@ Welcome to my Github!
 I'm a passionate, independent software engineer from Rio de Janeiro with an unending desire to learn more.  
 Proficient in both front-end and back-end development with many different tools.  
 I constantly seek knowledge of every stack, and understanding of every single aspect of creating complex systems and applications.  
-My goal is to become a software architect; <i>the best</i> software architect.
 
 ![](tools-and-techs-banner.png)
 - Java ☕
