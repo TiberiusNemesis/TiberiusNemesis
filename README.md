@@ -2,12 +2,14 @@
 
 Welcome to my Github!  
 I'm a passionate, independent software engineer from Rio de Janeiro with an unending desire to learn more.  
-Currently looking to expand into full-stack development.
+Proficient in both front-end and back-end development with many different tools.  
+I constantly seek knowledge of every stack, and understanding of every single aspect of creating complex systems and applications.  
+My goal is to become a software architect; <i>the best</i> software architect.
 
 ![](tools-and-techs-banner.png)
 - Java ☕
 - Spring Framework 🍃
-- JavaScript (ES6)
+- JavaScript
 - React / React Native ⚛️
 - Enterprise messaging systems & messaging oriented middleware, including but not limited to:  
 a. XML and JSON (XQuery, XSLT, XPath expressions, Jackson, JQ, GSON)  
