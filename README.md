@@ -13,13 +13,13 @@ I constantly seek knowledge of every stack, and understanding of every single as
 - Enterprise messaging systems & messaging oriented middleware, including but not limited to:  
 a. XML and JSON (XQuery, XSLT, XPath expressions, Jackson, JQ, GSON)  
 b. SOAP servers 🧼  
-c. ActiveMQ & RabbitMQ
-- Database systems, both SQL and NoSQL (SQL Server, MySQL, PostgreSQL, MongoDB), along with object-relational mapping (e.g. Jakarta Persistence) and JPQL
-- Flyway version control
+c. ActiveMQ, RabbitMQ, Kafka
+- Database systems, both SQL and NoSQL (SQL Server, MySQL, PostgreSQL, MongoDB), along with object-relational mapping (e.g. Jakarta Persistence, Hibernate) and JPQL
+- Database versioning (Flyway)
 - Microservices & MVC architectural patterns
 - Containerization with Docker 🐳
 - Kubernetes
-- Build automation tools such as Maven, Ant, Gradle
+- Build automation tools such as Maven, Ant, Gradle, NPM
 - RESTful web services
 - OAuth2/JWT
 - Test-Driven Development (unit tests, integration tests, system testing)
