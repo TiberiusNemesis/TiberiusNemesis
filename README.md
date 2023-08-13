@@ -10,6 +10,7 @@ I constantly seek knowledge of every stack, and understanding of every single as
 - Spring Framework 🍃
 - JavaScript
 - React / React Native ⚛️
+- Python 🐍
 - Enterprise messaging systems & messaging oriented middleware, including but not limited to:  
 a. XML and JSON (XQuery, XSLT, XPath expressions, Jackson, JQ, GSON)  
 b. SOAP servers 🧼  
@@ -26,8 +27,9 @@ c. ActiveMQ, RabbitMQ, Kafka
 - CI/CD (pipelines for quality assurance, building, and deploying projects)
 
 I've also had substantial experience with:
-- Python
 - Typescript (Angular 2+)
+- Kotlin
+- SwiftUI
 
 ![](socials-banner.png)
 
