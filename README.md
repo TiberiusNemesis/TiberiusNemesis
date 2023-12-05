@@ -3,11 +3,12 @@
 Welcome to my Github!  
 I'm a passionate, independent software engineer from Rio de Janeiro with an unending desire to learn more.  
 Proficient in both front-end and back-end development with many different tools.  
-I constantly seek knowledge of every stack, and understanding of every single aspect of creating complex systems and applications.  
+I seek knowledge of every stack, and understanding of every single aspect of creating complex systems and applications.  
 
 ![](tools-and-techs-banner.png)
 - Java ☕
 - Spring Framework 🍃
+- Go
 - JavaScript
 - React / React Native ⚛️
 - Python 🐍
@@ -17,14 +18,15 @@ b. SOAP servers 🧼
 c. ActiveMQ, RabbitMQ, Kafka
 - Database systems, both SQL and NoSQL (SQL Server, MySQL, PostgreSQL, MongoDB), along with object-relational mapping (e.g. Jakarta Persistence, Hibernate) and JPQL
 - Database versioning (Flyway)
-- Microservices & MVC architectural patterns
+- Microservices, MVC, SOA and Service Mesh architectural patterns
 - Containerization with Docker 🐳
 - Kubernetes
-- Build automation tools such as Maven, Ant, Gradle, NPM
-- RESTful web services
-- OAuth2/JWT
+- Build automation tools such as Maven, Ant, Gradle, NPM, Cargo
+- Web services (REST APIs, gRPC, GraphQL)
+- Full-text search engines (ElasticSearch)
+- Authentication strategies (OAuth, JWT, Token Auth, SAML)
 - Test-Driven Development (unit tests, integration tests, system testing)
-- CI/CD (pipelines for quality assurance, building, and deploying projects)
+- CI/CD (Jenkins, GH Actions, GitLab CI etc)
 
 I've also had substantial experience with:
 - Typescript (Angular 2+)
