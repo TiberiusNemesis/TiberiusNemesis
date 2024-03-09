@@ -6,32 +6,32 @@ Proficient in both front-end and back-end development with many different tools.
 I seek knowledge of every stack, and understanding of every single aspect of creating complex systems and applications.  
 
 ![](tools-and-techs-banner.png)
+- Golang 
+- JavaScript (& Node.js)
 - Java ☕
 - Spring Framework 🍃
-- Go
-- JavaScript
 - React / React Native ⚛️
 - Python 🐍
+- Typescript
+- Kotlin
+- SwiftUI
 - Enterprise messaging systems & messaging oriented middleware, including but not limited to:  
 a. XML and JSON (XQuery, XSLT, XPath expressions, Jackson, JQ, GSON)  
 b. SOAP servers 🧼  
-c. ActiveMQ, RabbitMQ, Kafka
-- Database systems, both SQL and NoSQL (SQL Server, MySQL, PostgreSQL, MongoDB), along with object-relational mapping (e.g. Jakarta Persistence, Hibernate) and JPQL
+c. ActiveMQ, RabbitMQ, Kafka, SQS
+- Database systems, both SQL and NoSQL (MS SQL Server, MySQL, PostgreSQL; MongoDB, Redis, DynamoDB)
+- Object-relational mapping (e.g. Jakarta Persistence, Hibernate, GORM, TypeORM)
 - Database versioning (Flyway)
 - Microservices, MVC, SOA and Service Mesh architectural patterns
 - Containerization with Docker 🐳
 - Kubernetes
-- Build automation tools such as Maven, Ant, Gradle, NPM, Cargo
+- Cloud services (e.g. AWS Lambda, S3, EC2, ECS, ElastiCache)
+- Build automation tools such as Maven, Ant, Gradle, NPM, Yarn, Cargo
 - Web services (REST APIs, gRPC, GraphQL)
 - Full-text search engines (ElasticSearch)
 - Authentication strategies (OAuth, JWT, Token Auth, SAML)
 - Test-Driven Development (unit tests, integration tests, system testing)
-- CI/CD (Jenkins, GH Actions, GitLab CI etc)
-
-I've also had substantial experience with:
-- Typescript (Angular 2+)
-- Kotlin
-- SwiftUI
+- CI/CD (Jenkins, GH Actions, GitLab CI)
 
 ![](socials-banner.png)
 
