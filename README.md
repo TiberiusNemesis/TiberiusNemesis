@@ -2,16 +2,16 @@
 
 Welcome to my Github!  
 I'm a passionate, independent software engineer from Rio de Janeiro with an unending desire to learn more.  
-Proficient in both front-end and back-end development with many different tools.  
-I seek knowledge of every stack, and understanding of every single aspect of creating complex systems and applications.  
+Proficient in both front-end and back-end development with a wide array of tools.  
+I seek knowledge of every stack, and understanding all aspects surrounding the creation of complex systems and applications.  
 
 ![](tools-and-techs-banner.png)
-- Golang 
+- Golang
+- Python 🐍
 - JavaScript (& Node.js)
 - Java ☕
 - Spring Framework 🍃
 - React / React Native ⚛️
-- Python 🐍
 - Typescript
 - Kotlin
 - SwiftUI
@@ -19,19 +19,19 @@ I seek knowledge of every stack, and understanding of every single aspect of cre
 a. XML and JSON (XQuery, XSLT, XPath expressions, Jackson, JQ, GSON)  
 b. SOAP servers 🧼  
 c. ActiveMQ, RabbitMQ, Kafka, SQS
-- Database systems, both SQL and NoSQL (MS SQL Server, MySQL, PostgreSQL; MongoDB, Redis, DynamoDB)
-- Object-relational mapping (e.g. Jakarta Persistence, Hibernate, GORM, TypeORM)
-- Database versioning (Flyway)
+- Database systems, both SQL and NoSQL (MS SQL Server, MySQL, PostgreSQL, Oracle DB; MongoDB, Redis, DynamoDB)
+- Object-relational mapping (e.g. SQLAlchemy, TypeORM, Jakarta Persistence, Hibernate, Prisma, GORM)
+- Database versioning (e.g. Liquibase, Flyway)
 - Microservices, MVC, SOA and Service Mesh architectural patterns
 - Containerization with Docker 🐳
-- Kubernetes
-- Cloud services (e.g. AWS Lambda, S3, EC2, ECS, ElastiCache)
+- Kubernetes, including container orchestration and deployment (Helm, ArgoCD)
+- Cloud services (e.g. AWS Lambda, S3, EC2, ECS, API Gateway, ElastiCache, IAM, RDS, Kinesis)
 - Build automation tools such as Maven, Ant, Gradle, NPM, Yarn, Cargo
-- Web services (REST APIs, gRPC, GraphQL)
-- Full-text search engines (ElasticSearch)
+- Web services and communication protocols (REST APIs, gRPC, GraphQL, WebSockets)
+- Observability, telemetry and metrics (Prometheus, Grafana, Kibana, ElasticSearch, Coralogix, OpenTelemetry)
 - Authentication strategies (OAuth, JWT, Token Auth, SAML)
 - Test-Driven Development (unit tests, integration tests, system testing)
-- CI/CD (Jenkins, GH Actions, GitLab CI)
+- CI/CD (Jenkins, GitHub Actions, GitLab CI)
 
 ![](socials-banner.png)
 
